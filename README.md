@@ -1,6 +1,9 @@
 # team-up-with-git
 Team version control practice repo
 
+
+Accompanying slides can be found [here](https://docs.google.com/presentation/d/179ACErhWwCOxKKCsgo-H2Xc1cPKBwQhVIbHnDIIu4Tw/edit?usp=sharing)
+
 ***
 
 ## Step 1: Clone the repo
