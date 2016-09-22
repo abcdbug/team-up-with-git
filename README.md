@@ -49,7 +49,7 @@ git commit -m "Added new file that does this and that"
 ## Step 5: Check status of your branch vis-a-vis master
 Before pushing your code to the origin, first check to see if master has changed since you branched.
 ```
-git co master
+git checkout master
 git fetch
 git status
 ```
