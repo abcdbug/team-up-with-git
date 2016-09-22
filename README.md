@@ -65,7 +65,7 @@ git checkout unique-branch-name
 git push -u unique-branch-name
 ```
 
-If master, has changed, you will need to rebase on master and then `git push`.
+If master changed since you branched, you will need to rebase on master and then `git push`.
 
 ```
 git checkout unique-branch-name
@@ -75,5 +75,5 @@ git push -u unique-branch-name
 If the rebase gives you an error, it means you and somebody else where touching the same part of the same files.
 That's when we start to think about using the project management tools provided by github/gitlab.
 
-## Step 7: Submit your pull request
-Navigate to the team-up-with-git project page on github/gitlab and submit a pull/merge request for your work.
+## Step 7: Submit your pull (aka merge) request
+Navigate to the team-up-with-git project page on github and submit a pull request for your work.
